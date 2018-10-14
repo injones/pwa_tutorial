@@ -1,7 +1,7 @@
 /* Start initial styles */
 
 body {
-  height: 100vh;
+  height: 80vh;
   background: linear-gradient(to bottom, #FD8271 , #A62824);
   font-family: 'Khula', sans-serif;
   color: #2f2f2f;
@@ -92,7 +92,7 @@ body {
     50% { transform: scale(1.2); }
     100% { transform: scale(1); }
 }
-      
+
 /* End Initial Styles */
 
 #test-image {
